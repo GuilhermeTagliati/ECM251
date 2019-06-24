@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FuncionarioTestDrive",
+            "request": "launch",
+            "mainClass": "app.FuncionarioTestDrive",
+            "projectName": "Concessionaria"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestDriveFuncionario",
+            "request": "launch",
+            "mainClass": "app.TestDriveFuncionario",
+            "projectName": "Concessionaria"
+        }
+    ]
+}
